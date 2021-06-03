@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address to His Majesty from the Common Council of the City of New Sarum, April 27, 1681</title>
+            <author>Salisbury (England). City Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16679</idno><idno type="EEBO-CITATION">8435523</idno>
+  <idno type="VID">204260</idno>
+  <idno type="EEBO-PROQUEST">2248505052</idno>
+  
+            <idno type="STC">Wing A563</idno>
+            <idno type="OCLC">08435523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address to His Majesty from the Common Council of the City of New Sarum, April 27, 1681</title>
+                  <author>Salisbury (England). City Council.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Salisbury.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:204260:1"/>
+            <pb facs="tcp:204260:1"/>
+            <pb facs="tcp:204260:2"/>
+            <head>AN ADDRESS TO HIS MAJESTY, FROM THE Common Council Of the CITY of NEW SARUM, <hi>April</hi> 27. 1681.</head>
+            <argument>
+               <p>
+                  <hi>At a Common Council holden for the City of</hi> New Sarum <hi>on</hi> Wednesday <hi>the seven and Twentieth day of</hi> April 1681, <hi>by the Mayor, Recorder, Alder<g ref="char:EOLhyphen"/>men, and Assistants, of the said City; it is unani<g ref="char:EOLhyphen"/>mously Ordered and Agreed, that the following Address be Humbly presented to his most Sacred Majesty.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>May it please your Most Excellent Majesty,</salute>
+            </opener>
+            <p>WE your Majesties Most Dutiful, and Loyal Sub<g ref="char:EOLhyphen"/>jects, The Mayor, Recorder, Aldermen, and Assistants, of your Majesties City of <hi>New Sarum;</hi> being this day in Common Council Assembled, and taking into our Serious Consideration your Majesties Most Gracious Declaration; which was Read, and Published, in the Cathedral and Parochial Churches, of this City, on Sunday last past: Do think it as well our Duty, as it is our Inclination, to take
+<pb n="2" facs="tcp:204260:3"/> the first opportunity of Unanimously Presenting, to your Sacred Majesty, our Most Humble thanks, That (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Place, and at the time of enjoying our Religious Worship, Established by Law, and Supported by your Majesties Royal Protection) your Majesty is Pleased (in the presence of God) to Renew to us, all those of<g ref="char:EOLhyphen"/>ten repeated Assurances, which your Majesty hath given us, of Extirpating Popery, from amongst us, (to which end, we can<g ref="char:EOLhyphen"/>not but take notice, with all Dutiful Satisfaction; that your Ma<g ref="char:EOLhyphen"/>jesty hath newly issued out your Commands, for a Strict Execu<g ref="char:EOLhyphen"/>tion of the Laws, both Ecclesiastical and Civil, in order there<g ref="char:EOLhyphen"/>unto) As also, of Redressing all our Grievances, and of Gover<g ref="char:EOLhyphen"/>ning according to the Fundamental, and established Laws of this Kingdom; whereof (notwithstanding the groundless Insinuations of Ill-meaning Men to the contrary) all Reasonable, and Sober Men, are, and ought to be most entirely convinced.</p>
+            <p>Nor may we forbear, most humbly taking notice, of your Ma<g ref="char:EOLhyphen"/>jesties indefatigable Care and Paines for the Preservation of <hi>Tanger,</hi> in the midst of so many great Streights and Difficulties; by Sup<g ref="char:EOLhyphen"/>porting with Supplies, out of your Majesties own Stores, a City of Christians amongst Mahumetans, of that importance to Trade, and in that extremity of danger to be lost, which, nothing but God Almighties Goodness, assisting your Princely undertaking, could possibly effect; and for which, our Posterity, as well as our selves, will ever be oblig'd to praise God.</p>
+            <p>And, we do on our parts, most Humbly beseech your Majesty to be assured, of our Sincere, and perfect Acquiescence, under your Majesties most Gracious Government, of our equal and impartial Detestation of all Popish and Phanatical principles, and practices, tending to Sedition and Rebellion, and of our Resolute, and Sted<g ref="char:EOLhyphen"/>fast Adherence to your Majesties Government, both in Church and State, as now by Law Established.</p>
+            <p>In Defence whereof, and of your Majesties Sacred Person (whom God long Preserve) We do with humble Confidence, most cheer<g ref="char:EOLhyphen"/>fully offer to your Majesty, the Command of our Lives and For<g ref="char:EOLhyphen"/>tunes; and that not only out of an entire and settled Principle of Allegiance, but also out of a deep Sense; That in the Preserva<g ref="char:EOLhyphen"/>tion and Security of your Sacred Majesties Life, and Just Prero<g ref="char:EOLhyphen"/>gative, all our Lives and Liberties do Consist.</p>
+            <closer>
+               <signed>L. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Walter Davis</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
